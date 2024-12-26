@@ -1,1 +1,12 @@
 ./thesis/thesis.md
+./thesis/resumen.md
+./thesis/contenido.md
+./thesis/introduccion.md
+./thesis/capitulo-1.md
+./thesis/capitulo-2.md
+./thesis/capitulo-3.md
+./thesis/capitulo-4.md
+./thesis/conclusiones.md
+./thesis/recomendaciones.md
+./thesis/referencias.md
+./thesis/anexos.md

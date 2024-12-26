@@ -1,26 +1,43 @@
 \newpage
-# Thesis Template
+\pagestyle{empty}
 
-[\thesis](https://thesis.lat)
+\begin{figure}[ht]
+    \begin{minipage}[t]{0.2\textwidth}
+        \includegraphics[height=2cm]{./format/crest.png}
+    \end{minipage}
+    \begin{minipage}[t]{0.8\textwidth}\centering
+UNIVERSIDAD CENTRAL DE VENEZUELA
 
-\vspace{2cm}
+FACULTAD DE CIENCIAS ECONÓMICAS Y SOCIOLES
 
-![](./format/crest.png){height=5cm}
+ESCUELA DE ECONÓMIA
+    \end{minipage}
+\end{figure}
 
-\hfill
+\vspace{3cm}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ante nibh, imperdiet in purus nec, ornare sagittis leo. Sed tincidunt vulputate risus, vitae tempus justo rhoncus ac. Pellentesque magna metus, laoreet ut tincidunt non, ornare nec enim. Praesent tristique suscipit dui vitae euismod. Integer vel nibh accumsan neque maximus feugiat non at elit. Aliquam ornare eros tempor libero congue, sed dictum neque bibendum. Maecenas efficitur velit fringilla mauris hendrerit faucibus. Sed ac mollis nisi.
+\begin{center}
+\uppercase{\textbf{Título de la investigación}}
+\end{center}
 
-Integer posuere ornare dui et lobortis. Duis auctor, erat ut feugiat pretium, libero lectus viverra ex, quis euismod justo metus condimentum nunc. Proin nec ornare quam. Curabitur et lectus ut risus vulputate suscipit. Pellentesque mi erat, aliquam vel urna ut, lobortis mollis ex. Ut faucibus tristique ipsum, non sodales dolor condimentum nec. Ut tristique rhoncus molestie. Vestibulum imperdiet mauris at mi dictum, in aliquet ante porta. In convallis lorem vitae augue pharetra, id posuere lacus luctus. Pellentesque laoreet dolor mauris, ac feugiat quam bibendum at.
+\vspace{3cm}
 
-Vestibulum a urna ante. Vivamus pretium dapibus orci, in egestas turpis bibendum eget. Sed a nunc ac lectus mollis gravida sed sit amet nunc. Phasellus congue neque sit amet nulla tempus, et dignissim magna fermentum. Curabitur sapien magna, sollicitudin et eros at, venenatis blandit leo. Donec in nulla ut quam hendrerit imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam feugiat tristique neque vel condimentum. Ut cursus vestibulum vulputate. In semper arcu et accumsan mattis. Mauris feugiat, turpis sit amet malesuada auctor, orci lacus condimentum dolor, vel laoreet dui nisi eget mi. Pellentesque sagittis id lorem sit amet pretium.
+\begin{flushright}
+\begin{minipage}[t]{0.6\textwidth}
+Trabajo de licenciatura presentado como requisitos parcial ante
+la Escuela de Derecho de la Universidad Central de Venezuela,
+para optar al título de Licenciado(a) en Derecho.
+\end{minipage}
 
+\vspace{3cm}
 
-@doc2024 @bib2024 @pd2024 @apa2022 @lua2024
+Autor: Nombres y Apellidos
 
-\newpage
+Tutora: Prof. Nombres y Apellidos
+\end{flushright}
 
-## References
+\vfill
 
-::: {#refs}
-:::
+\begin{center}
+Caracas, 2024
+\end{center}
