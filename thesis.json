@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "ven",
-  "lingua": "spa",
-  "universitas": "www.ucv.ve",
-  "facultas": "www.ucv.ve/estructura/facultades/facultad-de-ciencias-economicas-y-sociales.html",
-  "repositorium": "saber.ucv.ve",
-  "descriptio": "Facultad de Ciencias Económicas y Sociales / Universidad Central de Venezuela / Venezuela"
+  "year": 2024,
+  "description": "Facultad de Ciencias Económicas y Sociales / Universidad Central de Venezuela / Venezuela",
+  "iso_country": "ven",
+  "iso_language": "spa",
+  "url_university": "http://www.ucv.ve/",
+  "url_school": "http://www.ucv.ve/estructura/facultades/facultad-de-ciencias-economicas-y-sociales",
+  "url_repository": "http://saber.ucv.ve/"
 }
